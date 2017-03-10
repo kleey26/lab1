@@ -1,0 +1,20 @@
+命令稿啟動於 西元2017年03月10日 (週五) 14時02分38秒
+]0;nckucsie@sa-csie-ncku-edu-tw:~/test[?1034h[nckucsie@sa-csie-ncku-edu-tw test]$ [K[nckucsie@sa-csie-ncku-edu-tw test]$ script[K[K[K[K[K[Kwhoami[K;pwd
+bash: whoam: 找不到指令...
+/home/nckucsie/test
+]0;nckucsie@sa-csie-ncku-edu-tw:~/test[nckucsie@sa-csie-ncku-edu-tw test]$ whoam;pwd pwd[C[C[C
+bash: whoam: 找不到指令...
+/home/nckucsie/test
+]0;nckucsie@sa-csie-ncku-edu-tw:~/test[nckucsie@sa-csie-ncku-edu-tw test]$ whoam; pwd[C[1@i
+nckucsie
+/home/nckucsie/test
+]0;nckucsie@sa-csie-ncku-edu-tw:~/test[nckucsie@sa-csie-ncku-edu-tw test]$ git config -l
+]0;nckucsie@sa-csie-ncku-edu-tw:~/test[nckucsie@sa-csie-ncku-edu-tw test]$ git clone https://githu b.com/kleey26/lab1.git/[K
+Cloning into 'lab1'...
+remote: Counting objects: 3, done.[K
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:  33% (1/3)   Unpacking objects:  66% (2/3)   Unpacking objects: 100% (3/3)   Unpacking objects: 100% (3/3), done.
+]0;nckucsie@sa-csie-ncku-edu-tw:~/test[nckucsie@sa-csie-ncku-edu-tw test]$ exit
+
+命令稿已於 西元2017年03月10日 (週五) 14時04分55秒
+ 完成

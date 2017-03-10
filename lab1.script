@@ -1,0 +1,20 @@
+命令稿啟動於 西元2017年03月10日 (週五) 14時29分48秒
+]0;nckucsie@sa-csie-ncku-edu-tw:~/test[?1034h[nckucsie@sa-csie-ncku-edu-tw test]$ whoami; pwd
+nckucsie
+/home/nckucsie/test
+]0;nckucsie@sa-csie-ncku-edu-tw:~/test[nckucsie@sa-csie-ncku-edu-tw test]$ git config -l
+]0;nckucsie@sa-csie-ncku-edu-tw:~/test[nckucsie@sa-csie-ncku-edu-tw test]$ git cline http://gut[K[Kithub com/https://github.com/kleey26/lab1.git
+git: 'cline' is not a git command. See 'git --help'.
+
+Did you mean this?
+	clone
+]0;nckucsie@sa-csie-ncku-edu-tw:~/test[nckucsie@sa-csie-ncku-edu-tw test]$ git cline http://githubccom/https://github.com/kleey26/lab1.git[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[10Ponfig -l
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cline http://githubccom/https://github.com/kleey26/lab1.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cne http://githubco[1Pm/https://github.com/kleey26/lab1.git[A[C[C[C[C[Cone http://githubcom/https://github.com/kleey26/lab1.git[A[C[C[C[C[C
+
+Cloning into 'lab1'...
+fatal: unable to access 'http://githubcom/https://github.com/kleey26/lab1.git/': Could not resolve host: githubcom; Name or service not known
+]0;nckucsie@sa-csie-ncku-edu-tw:~/test[nckucsie@sa-csie-ncku-edu-tw test]$ git clone http://githubccom/https://github.com/kleey26/lab1.git[C[C[1Phttps://github.com/kleey26/lab1.git[C[C[C[1Phttps://github.com/kleey26/lab1.git[C[C[1Phttps://github.com/kleey26/lab1.git[C[1Phttps://github.com/kleey26/lab1.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cht[C[1Pps://github.com/kleey26/lab1.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chtt[1Pps://github.com/kleey26/lab1.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cttp[1Ps://github.com/kleey26/lab1.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps[1P://github.com/kleey26/lab1.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps:[1P//github.com/kleey26/lab1.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps:/[C[1Pgithub.com/kleey26/lab1.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://[1Pgithub.com/kleey26/lab1.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://g[1Pithub.com/kleey26/lab1.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://gi[1Pthub.com/kleey26/lab1.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://git[1Phub.com/kleey26/lab1.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://gith[1Pub.com/kleey26/lab1.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://githu[1Pb.com/kleey26/lab1.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cttps://github[1P.com/kleey26/lab1.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+Cloning into 'lab1'...
+remote: Counting objects: 11, done.[K
+remote: Compressing objects:  11% (1/9)   [Kremote: Compressing objects:  22% (2/9)   [Kremote: Compressing objects:  33% (3/9)   [Kremote: Compressing objects:  44% (4/9)   [Kremote: Compressing objects:  55% (5/9)   [Kremote: Compressing objects:  66% (6/9)   [Kremote: Compressing objects:  77% (7/9)   [Kremote: Compressing objects:  88% (8/9)   [Kremote: Compressing objects: 100% (9/9)   [Kremote: Comp
